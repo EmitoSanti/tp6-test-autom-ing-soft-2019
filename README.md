@@ -2,5 +2,5 @@
 ## Ingeniería de Software 2019
 Estudiantes: Emiliano Santi - Enzo Fernandez - Pablo Arias
 
-## PUNTO 1 y 2
-En este directorio estan los archivos de los proyectos de SeleniumIDE, del punto 1 y 2
+## PUNTO 3
+En este directorio estan los archivos del proyecto de NeatBeans-SeleniumWebDrive-Junit, del punto 3
