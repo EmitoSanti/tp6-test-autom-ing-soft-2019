@@ -61,7 +61,7 @@ public class SegundotestautomatizadoTest {
     }
 
     @Test
-    public void hello() {
+    public void segundotestAutomatizadoV01() {
    
         // Test name: Segundo test-automatizado
         // Step # | name | target | value

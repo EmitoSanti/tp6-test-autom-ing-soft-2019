@@ -61,7 +61,7 @@ public class PrimertestautomatizadoTest {
     }
 
     @Test
-    public void hello() {
+    public void primerTestAutomatizadoV01() {
    
         // Test name: Primer test-automatizado
         // Step # | name | target | value
